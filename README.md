@@ -61,4 +61,4 @@
 - 🌱 I’m currently learning design patterns...<br/>
 - 💬 Ask me about C, Java, Javascript, Postgres, Mysql, Arduino, ESP32...<br/>
 - 📫 How to reach me: <a href="mailto:eriveltoclenio@email.com">eriveltoclenio@gmail.com</a><br/>
-- ⚡ Fun fact: "The more you code, less tou code😂" - Unkwown.<br/>
+- ⚡ Fun fact: "The more you code, less you code😂" - Unkwown.<br/>
