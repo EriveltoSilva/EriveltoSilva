@@ -1,5 +1,6 @@
-## Hello, Welcome to My Personal Repo. I hope☘️ you enjoy my projects ideas💡 and go ahead to copy, use and improve then as you need. Or simply motivate your self 🚀 for coding like me😉.
+## Hello, I'm Erivelto, i'm a Backend Developer and Welcome to My Personal Repository. I hope☘️ you enjoy my projects ideas💡
 
+<h2> Some Global Statistic about my repository:</h2>
 <div style="display:flex; flex-direction:row; justify-content: center; align-Items:center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=otlevire&show_icons=true&theme=algolia" />
@@ -8,29 +9,56 @@
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otlevire&layout=compact&langs_count=10&theme=algolia" />
   </a>
-</div>https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg
+</div>
 
-<h1> Languagues and tools</h1>
 
-![java-original-wordmark](https://github.com/Otlevire/Otlevire/assets/125351173/23c5e39b-1712-47b8-b467-5133b757aea8)
-
+<h2> Languagues and tools</h2>
+<a href="#"> 
+ <img width="50" height="50" src="https://github.com/Otlevire/Otlevire/blob/main/assets/c-original.svg" alt="C" >
 </a>
 <a href="#">
-  <img src="https://github.com/codeSTACKr/codeSTACKr/raw/master/img/terminal-dark.svg"/>
+  <img width="50" height="50" src="https://github.com/Otlevire/Otlevire/blob/main/assets/cplusplus-original.svg" alt="C++" >
+</a>    
+
+<a href="#">
+  <img width="50" height="50" src="https://github.com/Otlevire/Otlevire/blob/main/assets/html5-original-wordmark.svg" alt="HTML5" >
+</a>    
+
+<a href="#">
+  <img width="50" height="50"  src="https://github.com/Otlevire/Otlevire/blob/main/assets/css3-original-wordmark.svg" alt="CSS3" >
+</a>    
+ 
+<a href="#">
+  <img width="50" height="50" src="https://github.com/Otlevire/Otlevire/blob/main/assets/javascript-original.svg" alt="JavaScript" >
 </a>
 
+ <a href="#">
+  <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" >
+</a>    
 
-<!--
-**Otlevire/Otlevire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="#">
+  <img width="50" height="50" src="https://github.com/Otlevire/Otlevire/blob/main/assets/java-original.svg" alt="Java" >
+</a>    
+  
+<a href="#">
+  <img width="50" height="50" src="https://github.com/Otlevire/Otlevire/blob/main/assets/nodejs-original-wordmark.svg" alt="NodeJs" >
+</a>
+  
+<a href="#">
+  <img width="50" height="50"  src="https://github.com/Otlevire/Otlevire/blob/main/assets/mysql-original-wordmark.svg" alt="MySql" >
+</a>
 
-Here are some ideas to get you started:
+<a href="#">
+  <img width="50" height="50" src="https://github.com/Otlevire/Otlevire/blob/main/assets/postgresql-original-wordmark.svg" alt="PostgresSql" >
+</a>
+ 
+<a href="#">
+  <img width="50" height="50" src="https://github.com/Otlevire/Otlevire/blob/main/assets/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667.svg" alt="GitHub" >
+</a>    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> More About:</h2>
+- 🔭 I’m currently looking for job oportunity presentialy or remotily a freelancer ...<br/>
+- 🌱 I’m currently learning design patterns...<br/>
+- 💬 Ask me about C, Java, Javascript, Postgres, Mysql, Arduino, ESP32...<br/>
+- 📫 How to reach me: <a href="mailto:eriveltoclenio@email.com">eriveltoclenio@gmail.com</a><br/>
+- ⚡ Fun fact: "The more you code, less tou code😂" - Unkwown.<br/>
