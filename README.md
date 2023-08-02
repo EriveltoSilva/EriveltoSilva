@@ -57,7 +57,7 @@
 </a>    
 
 <h2> More About:</h2>
-- 🔭 I’m currently looking for job oportunity presentialy or remotily a freelancer ...<br/>
+- 🔭 I’m currently looking for job oportunity presential or remotily ...<br/>
 - 🌱 I’m currently learning design patterns...<br/>
 - 💬 Ask me about C, Java, Javascript, Postgres, Mysql, Arduino, ESP32...<br/>
 - 📫 How to reach me: <a href="mailto:eriveltoclenio@email.com">eriveltoclenio@gmail.com</a><br/>
