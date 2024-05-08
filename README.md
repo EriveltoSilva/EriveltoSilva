@@ -33,7 +33,7 @@
 </a>
 
  <a href="#">
-  <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" >
+  <img width="50" height="50" src="https://icons.getbootstrap.com/assets/img/icons-hero.png" alt="Bootstrap" >
 </a>    
 
 <a href="#">
