@@ -41,7 +41,7 @@
 </a>    
   
 <a href="#">
-  <img width="50" height="50" src="https://github.com/EriveltoSilva/EriveltoSilva/blob/main/assets/django-original-wordmark.svg" alt="Django" >
+  <img width="50" height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.png" alt="Django" >
 </a>
   
 <a href="#">
