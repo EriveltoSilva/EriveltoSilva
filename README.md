@@ -41,7 +41,7 @@
 </a>    
   
 <a href="#">
-  <img width="50" height="50" src="https://github.com/EriveltoSilva/EriveltoSilva/blob/main/assets/nodejs-original-wordmark.svg" alt="NodeJs" >
+  <img width="50" height="50" src="https://github.com/EriveltoSilva/EriveltoSilva/blob/main/assets/django-original-wordmark.svg" alt="Django" >
 </a>
   
 <a href="#">
