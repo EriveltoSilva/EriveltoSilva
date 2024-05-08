@@ -1,4 +1,4 @@
-## Hello, I'm Erivelto, i'm a Backend Developer and Welcome to My Personal Repository. I hope☘️ you enjoy my projects ideas💡
+## Hello, I'm Erivelto Silva, i'm a Software Developer and Welcome to My Personal Repository. I hope☘️ you enjoy my portifolio💡
 
 <h2> Some Global Statistic about my repository:</h2>
 <div style="display:flex; flex-direction:row; justify-content: center; align-Items:center;">
