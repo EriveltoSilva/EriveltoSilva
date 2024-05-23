@@ -1,7 +1,16 @@
 <h1 align="center" style="color:#2f97c1"> Hi Dev, I'm Erivelto Silva<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 </h1>
 
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F97C1&background=181E48CF&center=true&random=false&width=435&lines=I%C2%B4m+a+Full+Stack+Developer;And+a+Data+Cience+Enthusiast" alt="Typing SVG" /></a>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F97C1&background=181E48CF&center=true&random=false&width=435&lines=I%C2%B4m+a+Full+Stack+Developer;And+a+Data+Cience+Enthusiast" alt="Typing SVG" /></div>
+
+
+<!-- <a href="https://www.linkedin.com/in/erivelto-da-costa-e-silva" target="_blank">
+<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> -->
+<!-- <a href="" >
+<img height="30" src="https://img.shields.io/badge/medium-%231DA1A2.svg?&style=for-the-badge&logo=medium&logoColor=black" />
+</a> -->
+
 
 I am a passionate software developer 🧑‍💻, with practical experience in developing ecommerce 🛒, websites 🌐 and web applications of the most varied types. Now I'm focused on learning artificial intelligence 🤖 to become a data scientist 📊.
 
@@ -90,5 +99,9 @@ Feel free to connect with me on my social media. Let's build something amazing t
 <h2>Remember:</h2>
 - ⚡ Fun fact: "The more you code, less you code😂" - Unkwown.<br/>
 
+
+<h2>Github Profile Views</h2>
+
+![Visitor Count](https://profile-counter.glitch.me/{EriveltoSilva}/count.svg)
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
