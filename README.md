@@ -12,6 +12,7 @@
 </a> -->
 
 
+<h2>The tip of the iceberg about me😅</h2>
 I am a passionate software developer 🧑‍💻, with practical experience in developing ecommerce 🛒, websites 🌐 and web applications of the most varied types. Now I'm focused on learning artificial intelligence 🤖 to become a data scientist 📊.
 
 Here you will find a collection of my projects, from web applications to innovative AI solutions 💡. I'm always eager to learn 📚, share knowledge 🗣️ and collaborate on interesting projects 🤝.
