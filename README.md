@@ -56,6 +56,10 @@ Feel free to connect with me on my social media. Let's build something amazing t
       <td><code><img width="50" src="https://skillicons.dev/icons?i=arduino" alt="Arduino" title="Arduino"/></code></td>
       <!-- <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></code></td> -->
     </tr>
+    <tr>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=bootstrap" alt="Postgres" title="Postgres"/></code></td>
+    </tr>
+    <tr>
       <td><code><img width="50" src="https://skillicons.dev/icons?i=postgres" alt="Postgres" title="Postgres"/></code></td>
       <td><code><img width="50" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL"/></code></td>
       <td><code><img width="50" src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite"/></code></td>
