@@ -17,8 +17,8 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
 <p align="left"> 
-    I am a passionate software developer 🧑‍💻, with practical experience in developing ecommerce 🛒, websites 🌐 and web applications of the most varied types. Now I'm focused on learning artificial intelligence 🤖 to become a data scientist 📊.
-    Here you will find a collection of my projects, from web applications to innovative AI solutions 💡. I'm always eager to learn 📚, share knowledge 🗣️ and collaborate on interesting projects 🤝.
+    I am a passionate software developer 🧑‍💻, with practical experience in developing ecommerce 🛒, websites 🌐 and web applications of the most varied types. Now I'm focused on learning artificial intelligence 🤖 to become a data scientist 📊.<br/><br/>
+    Here you will find a collection of my projects, from web applications to innovative AI solutions 💡. I'm always eager to learn 📚, share knowledge 🗣️ and collaborate on interesting projects 🤝.<br/><br/>
     Note: I'm passionate about electronics 🔌, so in my free time, I do simple projects combining the best of electronics with the best of systems development, thus creating different automation projects 🤖🔧. And you’ll find a lot of that around here 😉!
 </p>
 
