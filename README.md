@@ -1,9 +1,19 @@
-## Hello, I'm Erivelto Silva, i'm a Software Developer and Welcome to My Personal Repository. I hope☘️ you enjoy my portifolio💡
+<h1 align="center" style="color:#2f97c1"> Hi Dev, I'm Erivelto Silva<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+</h1>
 
-<h2> Some Global Statistic about my repository:</h2>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F97C1&background=181E48CF&center=true&random=false&width=435&lines=I%C2%B4m+a+Full+Stack+Developer;And+a+Data+Cience+Enthusiast" alt="Typing SVG" /></a>
+
+I am a passionate software developer 🧑‍💻, with practical experience in developing ecommerce 🛒, websites 🌐 and web applications of the most varied types. Now I'm focused on learning artificial intelligence 🤖 to become a data scientist 📊.
+
+Here you will find a collection of my projects, from web applications to innovative AI solutions 💡. I'm always eager to learn 📚, share knowledge 🗣️ and collaborate on interesting projects 🤝.
+
+Note: I'm passionate about electronics 🔌, so in my free time, I do simple projects combining the best of electronics with the best of systems development, thus creating different automation projects 🤖🔧. And you’ll find a lot of that around here 😉!
+
+<h2> Statistics</h2>
+
 <div style="display:flex; flex-direction:row; justify-content: center; align-Items:center;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eriveltosilva&show_icons=true&theme=algolia" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=eriveltosilva&show_icons=true&theme=blue-green" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://github.com/anuraghazra/convoychat">
@@ -12,73 +22,69 @@
 </div>
 
 
-<h2> Programming Languagues</h2>
-<a href="#" title="C plus plus">
-  <img width="50" height="50" src="https://github.com/EriveltoSilva/EriveltoSilva/blob/main/assets/cplusplus-original.svg" alt="C++" >
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   
+<img height=200 align="center" style="width:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=eriveltosilva&theme=blue-green" />
 
-<a href="#" title="HTML5" >
-  <img width="50" height="50" src="https://github.com/EriveltoSilva/EriveltoSilva/blob/main/assets/html5-original-wordmark.svg" alt="HTML5" >
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
 
-<a href="#" title="CSS3">
-  <img width="50" height="50"  src="https://github.com/EriveltoSilva/EriveltoSilva/blob/main/assets/css3-original-wordmark.svg" alt="CSS3" >
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
- 
-<a href="#" title="JavaScript">
-  <img width="50" height="50" src="https://github.com/EriveltoSilva/EriveltoSilva/blob/main/assets/javascript-original.svg" alt="JavaScript" >
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<h2> What I Do:</h2>
 
-<a href="#" title="Python">
-  <img width="50" height="50" src="https://www.svgrepo.com/show/376344/python.svg" alt="Python" >
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- **Full Stack Development**: Using Python and the Django framework to create dynamic web applications.
+- **Java Enthusiast**: Learning Java at university, currently focused on Servlets and JSP.
+- **AI and Machine Learning**: Constantly exploring new AI technologies and their applications.
 
-<a href="#" title="Java">
-  <img width="50" height="50" src="https://github.com/EriveltoSilva/EriveltoSilva/blob/main/assets/java-original.svg" alt="Java" >
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-    
-
-<h2> Databases</h2>
-<a href="#" title="PostgresSQL">
-  <img width="50" height="50" src="https://github.com/EriveltoSilva/EriveltoSilva/blob/main/assets/postgresql-original-wordmark.svg" alt="PostgresSql" >
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#" title="MySQL">
-  <img width="50" height="50"  src="https://github.com/EriveltoSilva/EriveltoSilva/blob/main/assets/mysql-original-wordmark.svg" alt="MySql" >
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="#" title="SQLite">
-  <img width="50" height="50"  src="https://banner2.cleanpng.com/20180823/pbs/kisspng-sqlite-database-android-mysql-sqlite-logo-svg-vector-amp-png-transparent-vec-5b7f52d603afe4.2282938415350709340151.jpg" alt="SQLite" >
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Feel free to connect with me on my social media. Let's build something amazing together! 🚀
 
 
 
-<h2> Libraries and Frameworks</h2>
-<a href="#" title="Bootstrap">
-  <img width="50" height="50" src="https://icons.getbootstrap.com/assets/img/icons-hero.png" alt="Bootstrap" >
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<h2> Technologies I Use:</h2>
 
-<a href="#" title="Django">
-  <img width="50" height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.png" alt="Django" >
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div align="center">
+  <table>
+    <tr>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5"/></code></td>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3"/></code></td>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript"/></code></td>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=py" alt="Python" title="Python"/></code></td
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=py" alt="Python" title="Python"/></code></td>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=java" alt="Java" title="Java"/></code></td>
+    </tr>
+    <tr>
+      <!-- <td><code><img width="50" src="https://skillicons.dev/icons?i=react" alt="Java" title="Java"/></code></td> -->
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=django" alt="Django" title="Django"/></code></td>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=nodejs" alt="Node Js" title="Node Js"/></code></td>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=express" alt="Express" title="Express"/></code></td>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring"/></code></td>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=arduino" alt="Arduino" title="Arduino"/></code></td>
+      <!-- <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></code></td> -->
+    </tr>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=postgres" alt="Postgres" title="Postgres"/></code></td>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL"/></code></td>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite"/></code></td>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB"/></code></td>
+    </tr>
+    <tr>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker"/></code></td>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=nginx" alt="Nginx" title="Nginx"/></code></td>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=windows" alt="Windows" title="Windows"/></code></td>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux"/></code></td>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" title="Ubuntu"/></code></td>
+    </tr>
+    <tr>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code"/></code></td>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/></code></td>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/></code></td>
+    </tr>
+  </table>
+</div>
 
-<a href="#" title="Langchain">
-  <img width="50" height="50" src="https://connectors.airbyte.com/files/metadata/airbyte/destination-langchain/latest/icon.svg" alt="Langchain" >
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-  
-<h2> Code Versioning </h2>
-<a href="#" title="GitHub">
-  <img width="50" height="50" src="https://github.com/EriveltoSilva/EriveltoSilva/blob/main/assets/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667.svg" alt="GitHub" >
-</a>    
-
-
-
-<h2> More About:</h2>
-- 🔭 I’m currently looking for job oportunity presential or remotily ...<br/>
-- 🌱 I’m currently learning design patterns...<br/>
-- 💬 Ask me about Wed Development and Technologies, Python, Django Web Framework, Django Rest API, Langchain, Arduino, Robotic...<br/>
+<h2>Contacts:</h2>
 - 📫 How to reach me: <a href="mailto:eriveltoclenio@email.com">eriveltoclenio@gmail.com</a><br/>
+
+
+
+<h2>Remember:</h2>
 - ⚡ Fun fact: "The more you code, less you code😂" - Unkwown.<br/>
+
+
+<!-- https://readme-typing-svg.demolab.com/demo/ -->
