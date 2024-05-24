@@ -15,6 +15,7 @@
 <h2>The tip of the iceberg about me😅</h2>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+<!-- <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" /> -->
 
 <p align="left"> 
     I am a passionate software developer 🧑‍💻, with practical experience in developing ecommerce 🛒, websites 🌐 and web applications of the most varied types. Now I'm focused on learning artificial intelligence 🤖 to become a data scientist 📊.<br/><br/>
