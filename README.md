@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#2f97c1"> Hi Dev, I'm Erivelto Silva<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 </h1>
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F97C1&background=181E48CF&center=true&random=false&width=435&lines=I%C2%B4m+a+Full+Stack+Developer;And+a+Data+Cience+Enthusiast" alt="Typing SVG" /></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F97C1&background=181E48CF&center=true&random=false&width=435&lines=I%C2%B4m+a+Full+Stack+Developer;And+a+Data+Science+Enthusiast" alt="Typing SVG" /></div>
 
 
 <!-- <a href="https://www.linkedin.com/in/erivelto-da-costa-e-silva" target="_blank">
