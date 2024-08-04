@@ -67,8 +67,8 @@ Feel free to connect with me on my social media. Let's build something amazing t
       <td><code><img width="50" src="https://skillicons.dev/icons?i=react" alt="ReactJs" title="ReactJs"/></code></td>
       <td><code><img width="50" src="https://skillicons.dev/icons?i=next" alt="NextJs" title="NextJs"/></code></td>
       <!--  <td><code><img width="50" src="https://skillicons.dev/icons?i=nodejs" alt="NodeJs" title="NodeJs"/></code></td> 
-      <td><code><img width="50" src="https://skillicons.dev/icons?i=express" alt="Express" title="Express"/></code></td>-->
-      <td><code><img width="50" src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring"/></code></td>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=express" alt="Express" title="Express"/></code></td>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring"/></code></td>-->
       <td><code><img width="50" src="https://skillicons.dev/icons?i=arduino" alt="Arduino" title="Arduino"/></code></td>
       <!-- <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></code></td> -->
     </tr>
