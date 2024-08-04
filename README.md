@@ -64,7 +64,9 @@ Feel free to connect with me on my social media. Let's build something amazing t
     <tr>
       <!-- <td><code><img width="50" src="https://skillicons.dev/icons?i=react" alt="Java" title="Java"/></code></td> -->
       <td><code><img width="50" src="https://skillicons.dev/icons?i=django" alt="Django" title="Django"/></code></td>
-      <td><code><img width="50" src="https://skillicons.dev/icons?i=nodejs" alt="Node Js" title="Node Js"/></code></td>
+      <!--  <td><code><img width="50" src="https://skillicons.dev/icons?i=nodejs" alt="NodeJs" title="NodeJs"/></code></td> -->
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=react" alt="ReactJs" title="ReactJs"/></code></td>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=next" alt="NextJs" title="NextJs"/></code></td>
       <td><code><img width="50" src="https://skillicons.dev/icons?i=express" alt="Express" title="Express"/></code></td>
       <td><code><img width="50" src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring"/></code></td>
       <td><code><img width="50" src="https://skillicons.dev/icons?i=arduino" alt="Arduino" title="Arduino"/></code></td>
@@ -72,6 +74,7 @@ Feel free to connect with me on my social media. Let's build something amazing t
     </tr>
     <tr>
       <td><code><img width="50" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap"/></code></td>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCss" title="TailwindCss"/></code></td>
     </tr>
     <tr>
       <td><code><img width="50" src="https://skillicons.dev/icons?i=postgres" alt="Postgres" title="Postgres"/></code></td>
