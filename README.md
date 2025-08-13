@@ -63,36 +63,36 @@ Feel free to connect with me on my social media. Let's build something amazing t
     </tr>
     <tr>
       <!-- <td><code><img width="50" src="https://skillicons.dev/icons?i=react" alt="Java" title="Java"/></code></td> -->
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI"/></code></td>
       <td><code><img width="50" src="https://skillicons.dev/icons?i=django" alt="Django" title="Django"/></code></td>
       <td><code><img width="50" src="https://skillicons.dev/icons?i=react" alt="ReactJs" title="ReactJs"/></code></td>
       <td><code><img width="50" src="https://skillicons.dev/icons?i=next" alt="NextJs" title="NextJs"/></code></td>
-      <!--  <td><code><img width="50" src="https://skillicons.dev/icons?i=nodejs" alt="NodeJs" title="NodeJs"/></code></td> 
-      <td><code><img width="50" src="https://skillicons.dev/icons?i=express" alt="Express" title="Express"/></code></td>
-      <td><code><img width="50" src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring"/></code></td>-->
       <td><code><img width="50" src="https://skillicons.dev/icons?i=arduino" alt="Arduino" title="Arduino"/></code></td>
+      <!--  <td><code><img width="50" src="https://skillicons.dev/icons?i=nodejs" alt="NodeJs" title="NodeJs"/></code></td>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring"/></code></td>-->
       <!-- <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/></code></td> -->
-    </tr>
-    <tr>
-      <td><code><img width="50" src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap"/></code></td>
-      <td><code><img width="50" src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCss" title="TailwindCss"/></code></td>
     </tr>
     <tr>
       <td><code><img width="50" src="https://skillicons.dev/icons?i=postgres" alt="Postgres" title="Postgres"/></code></td>
       <td><code><img width="50" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL"/></code></td>
       <td><code><img width="50" src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite"/></code></td>
       <td><code><img width="50" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB"/></code></td>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis"/></code></td>
     </tr>
     <tr>
-      <td><code><img width="50" src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker"/></code></td>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/></code></td>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/></code></td>
       <td><code><img width="50" src="https://skillicons.dev/icons?i=nginx" alt="Nginx" title="Nginx"/></code></td>
-      <td><code><img width="50" src="https://skillicons.dev/icons?i=windows" alt="Windows" title="Windows"/></code></td>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker"/></code></td>
+    </tr>
+    <tr>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code"/></code></td>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=windows" alt="Windows" title="Windows"/></cosde></td>
       <td><code><img width="50" src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux"/></code></td>
       <td><code><img width="50" src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" title="Ubuntu"/></code></td>
     </tr>
     <tr>
-      <td><code><img width="50" src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" title="Visual Studio Code"/></code></td>
-      <td><code><img width="50" src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/></code></td>
-      <td><code><img width="50" src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/></code></td>
+      <td><code><img width="50" src="https://skillicons.dev/icons?i=sklearn" alt="Sklearn" title="Sklearn"/></code></td>
     </tr>
   </table>
 </div>
